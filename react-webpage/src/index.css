@@ -1,0 +1,77 @@
+.App{
+  background-color: #F4F3EA;
+}
+.Header{
+  background-color: #333D51;
+  text-align: center;
+  padding: 0.5em;
+  clear: left;
+  color: #FEFFFF;
+  font-size: 110%;
+}
+
+.Body{
+  margin-top: 1%;
+}
+
+.Main{
+  padding : 20px;
+  margin-right: 1%;
+  margin-bottom: 1%;
+  float: left;
+  width: 76%;
+  color: #333D51;
+  background-color: #CBD0D8;
+}
+
+.Nav{
+  width: 20%;
+  float: right;
+  background-color: #D4AC0D;
+}
+.Nav ul{
+  list-style-type:none;
+}
+
+.Nav li{
+	background-color: #F4F3EA;
+	font-size: 120%;	
+	margin-right: 30px;
+	text-align: center;	
+	border-radius: 10px;
+	margin-bottom: 5px;
+	padding: 20px;
+}
+
+.Nav li a{
+	color:#333D51 ;
+}
+
+.Nav li a:link{
+	text-decoration: none;
+	color: #333D51;
+}
+.Nav li a:hover{
+	font-weight: bold;
+}
+
+.Nav li a:active{
+	font-weight: bold;
+}
+
+
+.Nav h2{
+	text-align: center;
+}
+
+.Footer{
+  color: #FEFFFF;
+  clear: left;
+  text-align: center;
+  background-color: #333D51;
+  padding: 10px;
+  font-size: 110%;
+}
+
+
+
